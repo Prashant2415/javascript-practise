@@ -1,0 +1,11 @@
+1: Call all the id values (gameBoard, scoreText, resetBtn)
+2: Create a getContext for the 2D canvas
+3: Get the width and height of the canvas
+4: Select the color of (Canvas, snake body, food , etc)
+5: Set canvas unitsize
+6: Set the food x, y direction coordinates
+7: Set the x, y direction velocity
+8: Create a snake array for the coordinates updates
+9: Now Create a window event listener which will trigger by the arrow keys to change the direction
+10: Create a reset event to reset the game
+11: Now we have to create couple of functions for the particular task (gameStart, nickTick, createFood, drawFood, drawSnake, moveSnake, changeDirection, resetGame, checkGameOver, displayGameOver, clearBoard)
