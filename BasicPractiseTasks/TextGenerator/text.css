@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    padding: 1rem;
+}
+.container{
+    width: 40rem;
+    height: 15rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid;
+}
+.title{
+
+}
+.generate{
+    padding: 0.5rem 1rem;
+    font-size: 16px;
+    font-weight: 600;
+    background: dimgray;
+    color: #ffffff;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.content{
+    padding: 1rem;
+}
